@@ -1,9 +1,11 @@
 # The-Cameraman
 
-##Landing Page Website From Scratch
+## Landing Page Website From Scratch
 
 
-##Screenshots
+
+
+## Screenshots
 
 <img src="https://github.com/KumarLakshmanan/The-Cameraman/raw/main/screenshots/Thumbnail.jpg">
 <img src="https://github.com/KumarLakshmanan/The-Cameraman/raw/main/screenshots/screenshot.png">
