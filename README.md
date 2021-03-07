@@ -10,7 +10,7 @@
 <img src="https://github.com/KumarLakshmanan/The-Cameraman/raw/main/screenshots/Thumbnail.jpg">
 <img src="https://github.com/KumarLakshmanan/The-Cameraman/raw/main/screenshots/screenshot.png">
 
-##Social Links
+## Social Links
 
 - [Youtube](https://youtube.com/c/CodingFrontend)
 - [Facebook](https://www.facebook.com/groups/frontendprogramming)
